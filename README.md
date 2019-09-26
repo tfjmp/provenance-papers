@@ -4,7 +4,7 @@
 - [SPADE](./SPADE)
 - [HiFi](./HiFi)
 - [LPM](./LPM)
-- [Inspector](./inspector)
+- [Inspector](./Inspector)
 - [CamFlow](./CamFlow)
 - [CamQuery](./CamQuery)
 
