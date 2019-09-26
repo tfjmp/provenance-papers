@@ -1,15 +1,19 @@
+## Capture
+
 - [PASS](./PASS)
 - [SPADE](./SPADE)
 - [HiFi](./HiFi)
 - [LPM](./LPM)
+- [Inspector](./inspector)
 - [CamFlow](./CamFlow)
 - [CamQuery](./CamQuery)
+
+# Analysis (need better title)
 
 - [StreamSpot](./Streamspot)
 - [SAQL](./SAQL)
 - [BABAR](./BABAR)
 - [SIGL](./SIGL)
-
 - [backtracking](./backtracking)
 - [HERCULE](./HERCULE)
 - [SLEUTH](./SLEUTH)
