@@ -1,6 +1,7 @@
 ## Capture
 
 - [PASS](./PASS)
+- [layering](./layering)
 - [SPADE](./SPADE)
 - [HiFi](./HiFi)
 - [LPM](./LPM)
