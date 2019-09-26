@@ -26,3 +26,4 @@
 - [MCI](./MCI)
 - [HOLMES](./HOLMES)
 - [NoDoze](./NoDoze)
+- [POIROT](./POIROT)
