@@ -26,3 +26,7 @@
 - [CamQuery](./CamQuery) Pasquier, Thomas, et al. "Runtime analysis of whole-system provenance." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.
 - [NoDoze](./NoDoze) Hassan, Wajih Ul, et al. "NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage." NDSS. 2019.
 - [POIROT](./POIROT) TODO
+
+# Summarization techniques
+
+- [NodeMerge](./NodeMerge) Tang, Yutao, et al. "Nodemerge: template based efficient data reduction for big-data causality analysis." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.
