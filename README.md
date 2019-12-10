@@ -26,6 +26,7 @@
 - [CamQuery](./CamQuery) Pasquier, Thomas, et al. "Runtime analysis of whole-system provenance." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.
 - [NoDoze](./NoDoze) Hassan, Wajih Ul, et al. "NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage." NDSS. 2019.
 - [POIROT](./POIROT) Milajerdi, Sadegh M., et al. "POIROT: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting." Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2019.
+- [AttackGraph](./AttackGraph) Capobianco, Frank, et al. "Employing Attack Graphs for Intrusion Detection." Proceedings of the 2019 ACM New Security Paradigms Workshop. ACM, 2019.
 
 # Summarization techniques
 
