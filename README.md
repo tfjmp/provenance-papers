@@ -37,7 +37,7 @@
 - [taming](./taming) Bates, Adam, et al. "Taming the costs of trustworthy provenance through policy reduction." ACM Transactions on Internet Technology (TOIT) 17.4 (2017): 34.
 - [NodeMerge](./NodeMerge) Tang, Yutao, et al. "Nodemerge: template based efficient data reduction for big-data causality analysis." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.
 
-# Query/Visualisation
+# Query/Visualization
 
 - [AIQL](./AIQL) Gao, Peng, et al. "AIQL: Enabling Efficient Attack Investigation from System Monitoring Data." 2018 {USENIX} Annual Technical Conference (USENIX ATC 18). 2018.
 - [SAQL](./SAQL) Gao, Peng, et al. "{SAQL}: A Stream-based Query System for Real-Time Abnormal System Behavior Detection." 27th USENIX Security Symposium (USENIX Security 18). 2018.
