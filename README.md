@@ -39,6 +39,7 @@
 
 # Query/Visualization
 
+- [InfoVis](./InfoVis) Borkin, Michelle A., et al. "Evaluation of filesystem provenance visualization tools." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2476-2485.
 - [AIQL](./AIQL) Gao, Peng, et al. "AIQL: Enabling Efficient Attack Investigation from System Monitoring Data." 2018 {USENIX} Annual Technical Conference (USENIX ATC 18). 2018.
 - [SAQL](./SAQL) Gao, Peng, et al. "{SAQL}: A Stream-based Query System for Real-Time Abnormal System Behavior Detection." 27th USENIX Security Symposium (USENIX Security 18). 2018.
 - [GrAALF](./GrAALF) Setayeshfar, Omid, et al. "GrAALF: Supporting Graphical Analysis of Audit Logs for Forensics." arXiv preprint arXiv:1909.00902 (2019). **TODO UPDATE WITH FINAL VENUE**
