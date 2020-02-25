@@ -22,7 +22,7 @@
 - [ProPatrol](./ProPatrol) Milajerdi, Sadegh M., et al. "ProPatrol: Attack Investigation via Extracted High-Level Tasks." International Conference on Information Systems Security. Springer, Cham, 2018.
 - [Winmower](./Winmower) Hassan, Wajih Ul, et al. "Towards scalable cluster auditing through grammatical inference over provenance graphs." Network and Distributed Systems Security Symposium. 2018.
 - [MCI](./MCI) Kwon, Yonghwi, et al. "MCI: Modeling-based Causality Inference in Audit Logging for Attack Investigation." NDSS. 2018.
-- [HOLMES](./HOLMES) Milajerdi, Sadegh M., et al. "HOLMES: real-time APT detection through correlation of suspicious information flows." arXiv preprint arXiv:1810.01594 (2018).
+- [HOLMES](./HOLMES) Milajerdi, Sadegh M., et al. "HOLMES: real-time APT detection through correlation of suspicious information flows." Symposium on Security and Privacy. IEEE, 2019.
 - **[CamQuery](./CamQuery) Pasquier, Thomas, et al. "Runtime analysis of whole-system provenance." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.**
 - [POIROT](./POIROT) Milajerdi, Sadegh M., et al. "POIROT: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting." Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2019.
 - [AttackGraph](./AttackGraph) Capobianco, Frank, et al. "Employing Attack Graphs for Intrusion Detection." Proceedings of the 2019 ACM New Security Paradigms Workshop. ACM, 2019.
