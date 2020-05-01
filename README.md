@@ -36,6 +36,7 @@
 - [reduction](./reduction) Xu, Zhang, et al. "High fidelity data reduction for big data security dependency analyses." Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2016.
 - [taming](./taming) Bates, Adam, et al. "Taming the costs of trustworthy provenance through policy reduction." ACM Transactions on Internet Technology (TOIT) 17.4 (2017): 34.
 - [NodeMerge](./NodeMerge) Tang, Yutao, et al. "Nodemerge: template based efficient data reduction for big-data causality analysis." Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2018.
+- [KCAL](./KCAL) Ma, Shiqing, et al. "Kernel-supported cost-effective audit logging for causality tracking." 2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18). 2018.
 
 # Query/Visualization
 
