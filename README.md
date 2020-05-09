@@ -28,6 +28,7 @@
 - [AttackGraph](./AttackGraph) Capobianco, Frank, et al. "Employing Attack Graphs for Intrusion Detection." Proceedings of the 2019 ACM New Security Paradigms Workshop. ACM, 2019.
 - [MORSE](./MORSE) Hossain, Md Nahid, Sanaz Sheikhi, and R. Sekar. "Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics."
 - [ProvDetector](./ProvDetector) Wang, Qi, et al. "You are what you do: Hunting stealthy malware via data provenance analysis." Proc. of the Symposium on Network and Distributed System Security (NDSS). 2020.
+- [omegalog][./omegalog]Hassan, Wajih Ul, et al. "Omega-Log: High-fidelity attack investigation via transparent multi-layer log analysis." NDSS, 2020.
 - **[UNICORN](./UNICORN) Han, X, et al. "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats." Proceedings of the 2020 Network and Distributed System Security Symposium. 2020.**
 
 # Summarization techniques
