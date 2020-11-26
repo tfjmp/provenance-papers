@@ -32,6 +32,7 @@
 - **[UNICORN](./UNICORN) Han, X, et al. "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats." Proceedings of the 2020 Network and Distributed System Security Symposium. 2020.**
 - [TPG](./TPG) Hassan, Wajih Ul, Adam Bates, and Daniel Marino. "Tactical Provenance Analysis for Endpoint Detection and Response Systems." IEE Symposium on Security and Privacy 2020.
 - [MORSE](./MORSE) Hossain, Md Nahid, Sanaz Sheikhi, and R. Sekar. "Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics." IEEE Symposium on Security and Privacy 2020.
+- **[SIGL](./SIGL) Han, Xueyuan, et al. "SIGL: Securing Software Installations Through Deep Graph Learning." USENIX SECURITY (2021).**
 
 # Summarization techniques
 
